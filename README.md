@@ -2,32 +2,26 @@
 
 > 멀티캠퍼스의 '빅데이터 기반 지능형 서비스 개발' 프로그램의 `HEXinAR` 팀의 `EXA_wave` 서비스 프로젝트 입니다.
 
-#### contents
+#### Contents
 
-1. [개요](#개요)
-2. skills
-3. team
-4. project scheduling
-5.  
-6.  
-7.  
-8.   
-9.  
-10.  
-11.  
-12.  
-13.  
-14.  
-15.  
-16.  
-17.  
-18.  
-19.  
-20.  
-21.  
-22. 
+1. [overview](#overview)
+2. [skills](#skills)
+3. [team](#team)
+4. [project scheduling](#project scheduling)
 
 
 
-## 개요
+## overview
+
+
+
+## skills
+
+
+
+## team
+
+
+
+## project scheduling
 
