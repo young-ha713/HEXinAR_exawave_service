@@ -7,21 +7,38 @@
 1. [overview](#overview)
 2. [skills](#skills)
 3. [team](#team)
-4. [project scheduling](#project scheduling)
+4. [project scheduling](#project-scheduling)
 
 
 
 ## overview
 
+* 
+  
+* 
+
 
 
 ## skills
 
+*  
 
+  
+
+* 
 
 ## team
 
+* 
 
 
-## project scheduling
+
+* 
+   
+
+## Project Scheduling
+
+* 
+  
+* 
 
