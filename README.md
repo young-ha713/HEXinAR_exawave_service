@@ -16,9 +16,10 @@
 
 ## Overview<a id="idx1"></a> 
 
-* Subject :
-* Team
-* 
+* Subject : 뉴스 분석을 통한 미래 키워드 예측
+* Team : HEXinAR
+* PM : 김민성
+* Member : 주창석, 김수원, 권회동, 남승주, 김하영
 
 
 
@@ -34,7 +35,15 @@
 
 ## Project Scheduling<a id="idx3"></a>
 
-* 
-  
+* 프로젝트 계획
+  - 주제 선정
+  - 
+  - ERD 작성
+  - 
+* 스크래핑
+  -
+* 머신러닝
+  -
+* 서비스 구현
 * 
 
